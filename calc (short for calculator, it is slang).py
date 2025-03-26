@@ -146,6 +146,8 @@ while not(end):
         for n in range(0, a):
             steps_2[n].append(negative[n] + steps_1[n])
 
+
+#calculation
 x = []
 x_counter = 0
 for n in steps_2:
